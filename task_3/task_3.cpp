@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#include <numeric> // For accumulate
+#include <numeric>
 
 using namespace std;
 
